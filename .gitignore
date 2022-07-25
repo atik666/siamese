@@ -1,0 +1,9 @@
+*.jpg
+*hdf5
+*npy
+*.csv
+*.csv#
+*.zip
+Footer
+*.pdf
+/archive
